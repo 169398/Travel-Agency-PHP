@@ -24,7 +24,7 @@ if(isset($_GET['logout'])){
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>log out</title>
 
-    <!-- custom css file link  -->
+    <!-- custom css style  file link  -->
     <link rel="stylesheet" href="style.css">
 
 </head>
